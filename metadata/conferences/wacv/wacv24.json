@@ -3752,7 +3752,8 @@
           "last_name": "Simon"
         },
         {
-          "last_name": "Williem"
+          "first_name": "Williem",
+          "last_name": "Pao"
         }
       ],
       "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
