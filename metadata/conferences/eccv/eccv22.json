@@ -6633,9 +6633,6 @@
           "last_name": "Wu"
         },
         {
-          "first_name": "Ltd)"
-        },
-        {
           "first_name": "Rongrong",
           "last_name": "Ji"
         }
@@ -18023,9 +18020,6 @@
           "last_name": "Wu"
         },
         {
-          "first_name": "Ltd)"
-        },
-        {
           "first_name": "Rongrong",
           "last_name": "Ji"
         }
@@ -19444,9 +19438,6 @@
         {
           "first_name": "Jia",
           "last_name": "Hao"
-        },
-        {
-          "first_name": "Ltd)"
         },
         {
           "first_name": "Angela",
@@ -26911,9 +26902,6 @@
         {
           "first_name": "Zhen",
           "last_name": "Wen"
-        },
-        {
-          "first_name": "Ltd)"
         },
         {
           "first_name": "Ming-Hsuan",
@@ -35878,9 +35866,6 @@
         {
           "first_name": "Yongjian",
           "last_name": "Wu"
-        },
-        {
-          "first_name": "Ltd)"
         },
         {
           "first_name": "Feiyue",
@@ -46525,10 +46510,6 @@
     {
       "title": "Federated Self-supervised Learning for Video Understanding",
       "authors": [
-        {
-          "first_name": "Yasar",
-          "last_name": "Rehman"
-        },
         {
           "first_name": "Yan",
           "last_name": "Gao"
